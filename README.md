@@ -16,4 +16,5 @@ A (rather) fun introduction to Git with song.
 
 ## Example of a commit message
 >DEP Remove unused code
+
 >The `expected_attributes` check was a holdover from when we read dictionary inputs here. This check has since moved to `HETEModel.load_data`.
