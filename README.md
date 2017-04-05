@@ -1,5 +1,5 @@
 # Interactive Git Tutorial
->A (rather) fun introduction to Git with song.
+A (rather) fun introduction to Git with song.
 
 ## Commit message subject tags
 BUG Bug fix
